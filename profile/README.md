@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://discord.gg/rankedbedwars">
+	<a href="https://discord.rbw.gg">
 		<picture>
 			<source srcset="Wordmark.svg" media="(prefers-color-scheme: dark)">
 			<img src="Wordmark_Black.svg" loading="eager" width="520px" title="Ranked Bedwars" alt="Ranked Bedwars" />
@@ -9,7 +9,7 @@
 </p>
 
 ---
-<a href="https://discord.gg/rankedbedwars">
+<a href="https://discord.rbw.gg">
   <img src="https://discordapp.com/api/guilds/1014230302622744677/widget.png?style=banner3" align="right" title="Join our Discord" alt="Join our Discord">
 </a>
 
@@ -47,7 +47,7 @@ To support development efforts, consider [donating](#funding).
 ### Getting Started
 - [Roadmap](#roadmap)
 - [Funding](#funding)
-- [Discord](https://discord.gg/rankedbedwars)
+- [Discord](https://discord.rbw.gg)
 
 ---
 ### Roadmap
