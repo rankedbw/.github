@@ -24,7 +24,7 @@
 ### Quick Links
 - [Website](https://rbw.gg)
 - [Store](https://store.rbw.gg)
-- [Discord](https://discord.gg/rankedbedwars)
+- [Discord](https://discord.rbw.gg)
 - [API](https://api.rbw.gg)
 
 ---
@@ -56,14 +56,14 @@ To support development efforts, consider [donating](#funding).
 ---
 ### Store
 Ranked Bedwars relies on generous people like you. You can help us in one of the following ways:
-- Boost our [Discord server](https://discord.gg/rankedbedwars)
+- Boost our [Discord server](https://discord.rbw.gg)
 - Check out our [Store](https://store.rbw.gg)
 
 All boosters and donators get exclusive perks in our Discord.
 
 ---
 ### Support
-Join our [Discord server](https://discord.gg/rankedbedwars) for supoprt, updates, and more.
+Join our [Discord server](https://discord.rbw.gg) for supoprt, updates, and more.
 
 ---
 ### Open Source
