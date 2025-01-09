@@ -54,8 +54,8 @@ To support development efforts, consider [donating](#funding).
 - Coming soon™
 
 ---
-### Store
-Ranked Bedwars relies on generous people like you. You can help us in one of the following ways:
+### Funding
+Ranked Bedwars relies on generous people like you. You can support our efforts in one of the following ways:
 - Boost our [Discord server](https://discord.rbw.gg)
 - Check out our [Store](https://store.rbw.gg)
 
